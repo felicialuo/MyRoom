@@ -22,4 +22,4 @@
 * **p** - print placed objects dictionary in terminal
 
 ## Disclaimer
-* This is the final project for CMU 15112 Fall 2022. cmu_112_graphics.py was developed by the course staff.
+* This is an individual project by **Felicia Zhixin Luo**, as the term project for CMU 15112 Fall 2022. cmu_112_graphics.py was developed by the course staff.
