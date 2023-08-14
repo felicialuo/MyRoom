@@ -1,7 +1,12 @@
 # MyRoom
  
 ## Project Description
-* MyRoom is a user-friendly 2D room planner for anyone to plan for their bedroom furniture layout. Users will be able to drop a default room to the drawing space, and then move the wall and door/window. They can then drag and drop, move, rotate, and flip furniture in the room plan. There will be a furniture library provided, each with a default dimension. Once the 2D plan is finalized, users will be able to switch to a test mode to test accessibility, and visualize any part of the room that is not wide enough to walk through. Watch the video for demonstration: https://www.youtube.com/watch?v=HAskzKZYSlU&t=3s.
+* MyRoom is a user-friendly 2D room planner for anyone to plan for their bedroom furniture layout. Users will be able to drop a default room to the drawing space, and then move the wall and door/window. They can then drag and drop, move, rotate, and flip furniture in the room plan. There will be a furniture library provided, each with a default dimension. Once the 2D plan is finalized, users will be able to switch to a test mode to test accessibility, and visualize any part of the room that is not wide enough to walk through.
+* Watch the video for demonstration: https://www.youtube.com/watch?v=HAskzKZYSlU&t=3s.
+
+<p float="left">
+   <img src="https://github.com/felicialuo/MyRoom/blob/main/MyRoom_preview.jpg" width="100%">
+</p>
 
 ## To Run the Project
 * Maintain the master directory structure.
